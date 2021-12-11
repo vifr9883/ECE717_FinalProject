@@ -4,7 +4,7 @@ Final Project for ECE717: Linear Systems. Trajectory Tracking with a Quaternion-
 This project contains 4 trajectory tracking controller designs for the quaternion-based quadcopter model.
 Two of them are based on feedback-linearization and 2 of them are based on equilibrium point linearization (hover).
 
-For more details, take a look at the [Final Report](https://github.com/freiremelgiz/ECE532_FinalProject/blob/master/resources/doc/FREIRE_ProjectReport.pdf)
+For more details, take a look at the [Final Report](https://github.com/freiremelgiz/ECE717_FinalProject/blob/master/ECE717_FREIRE_Final_Project.pdf)
 
 ## Code
 
