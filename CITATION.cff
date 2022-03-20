@@ -5,7 +5,6 @@ abstract: Simulation comparison of Lyapunov and feedback linearization controlle
 authors:
   - family-names: Freire
     given-names: Victor
-  - name: "ECE717 Final Project"
 version: 1.0
 date-released: "2021-12-11"
 license: Apache-2.0
